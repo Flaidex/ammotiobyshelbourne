@@ -1,6 +1,6 @@
 # ammotiobyshelbourne
 
-A Flutter project.
+# A Flutter project using Getx Statemanagement
 
 ## Getting Started
 
