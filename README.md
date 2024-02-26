@@ -1,16 +1,9 @@
 # ammotiobyshelbourne
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ammotio is a mobile app that Shelbourne Accountants will offer to their contractor customers so they can view bank details, payslips, and manage and submit their expenses.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app works as an integrated system where the accountants will review and load customer details, payslips, and review and approve expenses. It is a combination of read only areas (bank, payslips, hours worked) and actionable area (basic details, enter and submit expenses).
